@@ -1,0 +1,22 @@
+{
+  "name": "daily",
+  "version": "1.0.0",
+  "description": "Tasks!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckimeer/Daily.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckimeer/Daily/issues"
+  },
+  "homepage": "https://github.com/luckimeer/Daily#readme",
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
